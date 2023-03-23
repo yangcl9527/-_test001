@@ -1,5 +1,5 @@
 import unittest
-from test import Test001
+from script.test import Test001
 import HTMLTestRunner
 
 
