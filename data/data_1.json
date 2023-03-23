@@ -1,0 +1,24 @@
+[
+  {
+    "user_id" : "287036162",
+    "token" : "vR60ZvOsMHb60wWPeJvVPjs0o3RDZseEkgHUKtbgcQ-DZS6w4FQypjMSMrO6sHAMUsIPsbRtusgu_x1Vz0L8kwhSHCSNLBO1bzWQu_Bo6T4",
+    "platform" : "baidu",
+    "identity" : "expert",
+    "match_type_1" : "team",
+    "cl" : "",
+
+    "match_type": "team"
+  },
+  {
+    "user_id" : "287036162",
+    "token" : "vR60ZvOsMHb60wWPeJvVPjs0o3RDZseEkgHUKtbgcQ-DZS6w4FQypjMSMrO6sHAMUsIPsbRtusgu_x1Vz0L8kwhSHCSNLBO1bzWQu_Bo6T4",
+    "platform" : "baidu",
+    "identity" : "expert",
+    "match_type_1" : "personal",
+    "cl" : "",
+
+
+    "match_type": "personal"
+  }
+
+]

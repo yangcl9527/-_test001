@@ -1,0 +1,62 @@
+[
+  {
+    "user_id" : "287036162",
+    "token" : "vR60ZvOsMHb60wWPeJvVPjs0o3RDZseEkgHUKtbgcQ-DZS6w4FQypjMSMrO6sHAMUsIPsbRtusgu_x1Vz0L8kwhSHCSNLBO1bzWQu_Bo6T4",
+    "platform" : "baidu",
+    "identity" : "expert",
+    "id" : "70",
+
+    "activity_id": "70",
+    "name": "队伍管理团队赛001",
+    "match_type": "team",
+    "team_limit": "2",
+    "share_img": "",
+    "description": "123",
+    "icon": "",
+    "head": "",
+    "poster": "",
+    "starttm": "2023-03-07 18:19:47",
+    "endtm": "2023-03-09 18:20:01",
+    "attend_num": "1",
+    "bonus_num": "0",
+    "status": "未结算",
+    "rules": {
+            "work": {
+                "days": 1,
+                "daily_cnt": 1,
+                "bonus_cnt": "0.01",
+                "progress": {
+                    "continous_days": 0,
+                    "works_cnt": 0,
+                    "bonus_cnt": "0.00",
+                    "is_complete": 0,
+                    "progress": "0.0%",
+                    "daily_stat": []
+                }
+            },
+            "income": {
+                "expect_cnt": 0,
+                "bonus_cnt": 0,
+                "progress": {
+                    "total": "0.00",
+                    "bonus_cnt": "0.00",
+                    "is_complete": 0,
+                    "progress": "0%"
+                }
+            }
+        },
+    "whether_participate": "1",
+    "join_time": "0000-00-00 00:00:00",
+    "team": {
+            "team_id": "50",
+            "status": "success",
+            "join_time": "2023-03-10 11:33:40",
+            "owner": {
+                "account_id": "34844",
+                "name": "yangcl_test_expert_1",
+                "icon": ""
+            }
+        }
+    }
+
+]
